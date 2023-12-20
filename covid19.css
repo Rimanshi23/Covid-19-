@@ -1,0 +1,28 @@
+table,tr,td{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-width: 1px;
+    border-color: black;
+    border-style: ridge;
+}
+table{
+    vertical-align: auto;
+}
+body{
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+span{
+    font-size: larger;
+    color: palevioletred;
+}
+li{
+    color: cornflowerblue;
+}
+h1{
+    color: purple;
+}
+table{
+    margin-left: 40px;
+    margin-right: 40px;
+}
